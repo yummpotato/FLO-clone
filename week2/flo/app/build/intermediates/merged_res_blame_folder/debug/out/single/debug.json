@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_nugu_btn_random_inactive.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/nugu_btn_random_inactive.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_main_setting.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_main_setting.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_toggle_off.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_toggle_off.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_my_like_on.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_my_like_on.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_discovery_banner_aos.jpg.flat",
+        "source": "com.example.week1.app-main-30:/drawable/discovery_banner_aos.jpg"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_album_lp.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_album_lp.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_toggle_on.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_toggle_on.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_player_unlike_off.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_player_unlike_off.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_album_exp2.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_album_exp2.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.week1.app-main-30:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_video_exp.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_video_exp.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/layout_activity_song.xml.flat",
+        "source": "com.example.week1.app-main-30:/layout/activity_song.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_textview_background_select_color_radius.xml.flat",
+        "source": "com.example.week1.app-main-30:/drawable/textview_background_select_color_radius.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_main_youtube.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_main_youtube.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_first_album_default.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_first_album_default.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_miniplay_pause.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_miniplay_pause.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_bottom_home_select.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_bottom_home_select.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_main_facebook.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_main_facebook.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_bottom_locker_no_select.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_bottom_locker_no_select.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_miniplayer_go_list.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_miniplayer_go_list.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_nugu_btn_down.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/nugu_btn_down.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_my_like_off.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_my_like_off.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_miniplayer_next.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_miniplayer_next.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_main_twitter.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_main_twitter.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_player_setting.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_player_setting.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_widget_black_play.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/widget_black_play.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_panel_play_large.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_panel_play_large.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.week1.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_nugu_btn_skip_next_32.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/nugu_btn_skip_next_32.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/layout_fragment_search.xml.flat",
+        "source": "com.example.week1.app-main-30:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_miniplayer_previous.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_miniplayer_previous.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/layout_fragment_locker.xml.flat",
+        "source": "com.example.week1.app-main-30:/layout/fragment_locker.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_main_arrow_more.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_main_arrow_more.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_nugu_btn_play_32.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/nugu_btn_play_32.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_potcast_exp.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_potcast_exp.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_actionbar_instagram.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_actionbar_instagram.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_player_go_list.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_player_go_list.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_player_eq_off.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_player_eq_off.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_player_more.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_player_more.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_player_unlike_on.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_player_unlike_on.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_nugu_btn_pause_32.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/nugu_btn_pause_32.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_bottom_locker_select.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_bottom_locker_select.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_main_mike.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_main_mike.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_miniplayer_play.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_miniplayer_play.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_player_related.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_player_related.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/layout_fragment_home.xml.flat",
+        "source": "com.example.week1.app-main-30:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_home_viewpager_exp2.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_home_viewpager_exp2.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_playlist_select_off.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_playlist_select_off.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_miniplay_mvpause.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_miniplay_mvpause.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_playlist_select_on.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_playlist_select_on.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_textview_background_radius.xml.flat",
+        "source": "com.example.week1.app-main-30:/drawable/textview_background_radius.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_home_viewpager_exp.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_home_viewpager_exp.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_bottom_search_no_select.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_bottom_search_no_select.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.week1.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_arrow_black.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_arrow_black.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_bottom_search_select.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_bottom_search_select.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_nugu_btn_skip_previous_32.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/nugu_btn_skip_previous_32.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "com.example.week1.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_nugu_btn_repeat_inactive.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/nugu_btn_repeat_inactive.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_bottom_home_no_select.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_bottom_home_no_select.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_main_ticket.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_main_ticket.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_color_selector.xml.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_color_selector.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_album_exp.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_album_exp.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_bottom_look_no_select.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_bottom_look_no_select.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/layout_fragment_album.xml.flat",
+        "source": "com.example.week1.app-main-30:/layout/fragment_album.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_main_instagram.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_main_instagram.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_icon_browse_arrow_right.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/icon_browse_arrow_right.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/layout_fragment_look.xml.flat",
+        "source": "com.example.week1.app-main-30:/layout/fragment_look.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_img_album_cover.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/img_album_cover.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_bottom_look_select.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_bottom_look_select.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.week1.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.week1.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_miniplay_mvplay.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_miniplay_mvplay.png"
+    },
+    {
+        "merged": "com.example.week1.app-merged_res-28:/drawable_btn_player_play.png.flat",
+        "source": "com.example.week1.app-main-30:/drawable/btn_player_play.png"
+    }
+]

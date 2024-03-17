@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.week1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <permission
+11-->[androidx.core:core:1.9.0] /Users/parkhyejeong/.gradle/caches/transforms-3/3c11ddf1f1ffbda5ee4d54edb6c4ee68/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+12        android:name="com.example.week1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.9.0] /Users/parkhyejeong/.gradle/caches/transforms-3/3c11ddf1f1ffbda5ee4d54edb6c4ee68/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.9.0] /Users/parkhyejeong/.gradle/caches/transforms-3/3c11ddf1f1ffbda5ee4d54edb6c4ee68/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.example.week1.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.9.0] /Users/parkhyejeong/.gradle/caches/transforms-3/3c11ddf1f1ffbda5ee4d54edb6c4ee68/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.9.0] /Users/parkhyejeong/.gradle/caches/transforms-3/3c11ddf1f1ffbda5ee4d54edb6c4ee68/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:5:5-22:19
+18        android:allowBackup="true"
+18-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:6:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.9.0] /Users/parkhyejeong/.gradle/caches/transforms-3/3c11ddf1f1ffbda5ee4d54edb6c4ee68/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:7:9-43
+23        android:label="@string/app_name"
+23-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:8:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:9:9-54
+25        android:supportsRtl="true"
+25-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:10:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.FLO" >
+27-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:11:9-41
+28        <activity
+28-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:12:9-20:20
+29            android:name="com.example.week1.MainActivity"
+29-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:13:13-58
+30            android:exported="true" >
+30-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:14:13-36
+31            <intent-filter>
+31-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:15:13-19:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:16:17-69
+32-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:16:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:18:17-77
+34-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:18:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="com.example.week1.SongActivity" />
+37-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:21:9-67
+37-->/Users/parkhyejeong/AndroidStudioProjects/app/src/main/AndroidManifest.xml:21:19-64
+38
+39        <provider
+39-->[androidx.emoji2:emoji2:1.2.0] /Users/parkhyejeong/.gradle/caches/transforms-3/6cab4aafa2a113f80dab115e00217c6b/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+40            android:name="androidx.startup.InitializationProvider"
+40-->[androidx.emoji2:emoji2:1.2.0] /Users/parkhyejeong/.gradle/caches/transforms-3/6cab4aafa2a113f80dab115e00217c6b/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+41            android:authorities="com.example.week1.androidx-startup"
+41-->[androidx.emoji2:emoji2:1.2.0] /Users/parkhyejeong/.gradle/caches/transforms-3/6cab4aafa2a113f80dab115e00217c6b/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+42            android:exported="false" >
+42-->[androidx.emoji2:emoji2:1.2.0] /Users/parkhyejeong/.gradle/caches/transforms-3/6cab4aafa2a113f80dab115e00217c6b/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+43            <meta-data
+43-->[androidx.emoji2:emoji2:1.2.0] /Users/parkhyejeong/.gradle/caches/transforms-3/6cab4aafa2a113f80dab115e00217c6b/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+44                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+44-->[androidx.emoji2:emoji2:1.2.0] /Users/parkhyejeong/.gradle/caches/transforms-3/6cab4aafa2a113f80dab115e00217c6b/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+45                android:value="androidx.startup" />
+45-->[androidx.emoji2:emoji2:1.2.0] /Users/parkhyejeong/.gradle/caches/transforms-3/6cab4aafa2a113f80dab115e00217c6b/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+46            <meta-data
+46-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/parkhyejeong/.gradle/caches/transforms-3/6d8370e7ef5c9d00905fe4ffa67063c2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+47                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+47-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/parkhyejeong/.gradle/caches/transforms-3/6d8370e7ef5c9d00905fe4ffa67063c2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+48                android:value="androidx.startup" />
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/parkhyejeong/.gradle/caches/transforms-3/6d8370e7ef5c9d00905fe4ffa67063c2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+49        </provider>
+50    </application>
+51
+52</manifest>

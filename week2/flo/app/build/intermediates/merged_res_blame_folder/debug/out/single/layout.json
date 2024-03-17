@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.week1.app-mergeDebugResources-27:/layout/fragment_search.xml",
+        "source": "com.example.week1.app-main-30:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.week1.app-mergeDebugResources-27:/layout/activity_song.xml",
+        "source": "com.example.week1.app-main-30:/layout/activity_song.xml"
+    },
+    {
+        "merged": "com.example.week1.app-mergeDebugResources-27:/layout/fragment_home.xml",
+        "source": "com.example.week1.app-main-30:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.week1.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.example.week1.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.week1.app-mergeDebugResources-27:/layout/fragment_album.xml",
+        "source": "com.example.week1.app-main-30:/layout/fragment_album.xml"
+    },
+    {
+        "merged": "com.example.week1.app-mergeDebugResources-27:/layout/fragment_look.xml",
+        "source": "com.example.week1.app-main-30:/layout/fragment_look.xml"
+    },
+    {
+        "merged": "com.example.week1.app-mergeDebugResources-27:/layout/fragment_locker.xml",
+        "source": "com.example.week1.app-main-30:/layout/fragment_locker.xml"
+    }
+]
